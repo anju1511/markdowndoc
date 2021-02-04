@@ -29,3 +29,11 @@ Our college name is **SRK INSTITUTE OF TECHNOLOGY** *It Department*
  
  # Links
  do u want to know me click here [google](https://google.com)
+ 
+ # Tables
+ 
+ s.no|name|marks
+ ----|----|----
+ 1|abc|90
+ 2|bbc|99
+ 3|tv9|89
